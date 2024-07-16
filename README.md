@@ -1,2 +1,2 @@
-# portfolio
+Programmer
 My programming/coding portfolio
